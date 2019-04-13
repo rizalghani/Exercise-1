@@ -1,2 +1,2 @@
 # Exercise-1
-Javascript Course Development by Hacktiv8
+Javascript Development Course by Hacktiv8
